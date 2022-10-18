@@ -16,6 +16,12 @@
     border-radius: 4px;
 }
 
+@media (max-width: 496px) {
+    .wallet-adapter-button {
+        font-size: 12px;
+    }
+}    
+
 .wallet-adapter-button-trigger {
     background-color: #512da8;
 }
